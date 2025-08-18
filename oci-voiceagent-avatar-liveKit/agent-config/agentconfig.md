@@ -193,6 +193,6 @@ The process may take several minutes depends on the tools and their configuratio
 ## Acknowledgements
 
 * **Author**
-    * **Rahul MR**, Prinicipal Solutions Architect - OCI 
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
 * **Contributors**
-    * **Sanjeeva Kalva**, Principal Data Scientist - OCI 
+    * **Ankit Mishra**

@@ -243,6 +243,6 @@ The task help to create a basic agent to which we will add further tools later.
 ## Acknowledgements
 
 * **Author**
-    * **Rahul MR**, Principal Solutions Architect - OCI 
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
 * **Contributors**
-    * **Sanjeeva Kalva**, Principal Data Scientist - OCI 
+    * **Ankit Mishra** 

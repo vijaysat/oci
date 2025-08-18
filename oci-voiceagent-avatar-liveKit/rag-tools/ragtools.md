@@ -121,9 +121,9 @@ Estimated Time: 30 minutes
 ## Acknowledgements
 
 * **Author**
-    * **Rahul MR**, Principal Solutions Architect - OCI 
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
 * **Contributors**
-    * **Sanjeeva Kalva**, Principal Data Scientist - OCI 
+    * **Ankit Mishra**
 
 
 

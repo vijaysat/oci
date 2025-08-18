@@ -49,8 +49,8 @@ This lab assumes you have:
 ## Acknowledgements
 
 * **Author**
-    * **Rahul MR**, Principal Solutions Architect - OCI 
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
 * **Contributors**
-    * **Sanjeeva Kalva**, Principal Data Scientist - OCI 
+    * **Ankit Mishra**
 * **Last Updated By/Date**
     * **TBD**, TBD

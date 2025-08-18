@@ -143,6 +143,6 @@ We will be using the *Database connection* created during the initial step to pr
 ## Acknowledgements
 
 * **Author**
-    * **Rahul MR**, Principal Solutions Architect - OCI 
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
 * **Contributors**
-    * **Sanjeeva Kalva**, Principal Data Scientist - OCI 
+    * **Ankit Mishra**
