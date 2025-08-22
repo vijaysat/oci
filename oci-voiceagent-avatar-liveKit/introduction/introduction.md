@@ -2,7 +2,8 @@
 
 ## About this Workshop
 
-This workshop will help to configure,deploy and run a chat powered by OCI Generative AI Agents using OCI Agent Development Kit (`adk`).During the flow the learner will 
+This workshop will help developers extract text from audio using production ready pre-trained ASR (Automatic Speech Recognition) models. OCI’s Speech service provides automated, accurate transcription at scale, without requiring any machine learning expertise. It can be accessed through REST APIs and SDKs. OCI Speech supports transcription in English (AU, GB, IN, US), French, German, Hindi, Italian, Portuguese and Spanish. 
+Also configure,deploy and run a chat powered by OCI Generative AI Agents using OCI Agent Development Kit (`adk`).During the flow the learner will
 
 - Create and configure OCI Generative AI agents.
 - Configure tools such as Retrieval Augmented Generation(RAG),Nl2SQL,Custom tools including Model Context Protocol(MCP) based tools.
