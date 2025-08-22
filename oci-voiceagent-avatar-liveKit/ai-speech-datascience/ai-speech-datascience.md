@@ -182,8 +182,7 @@ Congratulations on completing this lab!
 You may now **proceed to the next lab**
 
 ## Acknowledgements
-* **Authors**
-    * Alex Ginella - Oracle AI Services
-    * Rajat Chawla  - Oracle AI Services
-    * Ankit Tyagi -  Oracle AI Services
-    * Veluvarthi Narasimha Reddy - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI

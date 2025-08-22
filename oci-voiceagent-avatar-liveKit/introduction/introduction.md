@@ -2,8 +2,15 @@
 
 ## About this Workshop
 
-This workshop will help to configure,deploy and run a chat powered by OCI Generative AI Agents using OCI Agent Development Kit (`adk`).During the flow the learner will 
+This workshop will help developers extract text from audio using production ready pre-trained ASR (Automatic Speech Recognition) models. OCI’s Speech service provides automated, accurate transcription at scale, without requiring any machine learning expertise. It can be accessed through REST APIs and SDKs. OCI Speech supports transcription in English (AU, GB, IN, US), French, German, Hindi, Italian, Portuguese and Spanish.\
+Also configure,deploy and run a chat powered by OCI Generative AI Agents using OCI Agent Development Kit (`adk`).During the flow the learner will
 
+- Understand a high level overview of the OCI Speech
+- Understand the full cycle/workflow of services provided by OCI Speech
+- Learn to use REST API to interact with OCI Speech
+- Learn to use CLI to interact with OCI Speech
+- Learn to use the OCI Speech SDKs.
+- Learn to enable notifications for OCI Speech transcription jobs
 - Create and configure OCI Generative AI agents.
 - Configure tools such as Retrieval Augmented Generation(RAG),Nl2SQL,Custom tools including Model Context Protocol(MCP) based tools.
 - Use `adk` for all the above tasks. 
@@ -14,10 +21,12 @@ Estimated Workshop Time: 2 hours
 
 ### Objectives
 
-Objective of this workshop is to configure ,build ,deploy and run OCI Generative AI Agents using Agent Development Kit (**ADK**).The following services and features will be covered during the lab
+Objective of this workshop is to configure ,build ,deploy and run OCI Generative AI Agents using Agent Development Kit (**ADK**). The agents will interact with OCI speech service by creating a Job to transcribe an audio file placed on a storage bucket via OCI functions. The transcribed file will be placed back to the storage bucket.\ 
+The following services and features will be covered during the lab
 
 
-
+* Understand a high level overview of the OCI Speech
+* Learn to use the OCI Speech SDKs.
 * OCI Generative AI Agent build and deploy.
 * Configure and use inbuilt Retrieval Augmented Generation (**RAG**)tool.
 * Configure and use inbuilt Natural Language 2 to SQL tool (**NL2SQL**).
@@ -30,6 +39,7 @@ Objective of this workshop is to configure ,build ,deploy and run OCI Generative
 This lab assumes you have:
 
 * An Oracle Cloud Account (Non Free Tier)
+* Familiar with OCI Policy and SDK/CLI setup.
 * Access to OCI Generative AI Agents 
 * Access to a Region where the Agent service is available.
     * Refer [here for more.](https://docs.oracle.com/en-us/iaas/Content/generative-ai-agents/overview.htm#regions)
@@ -51,6 +61,6 @@ This lab assumes you have:
 * **Author**
     * **vijay Sathish**, Principal Solutions Architect - OCI 
 * **Contributors**
-    * **Ankit Mishra**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI
 * **Last Updated By/Date**
     * **TBD**, TBD

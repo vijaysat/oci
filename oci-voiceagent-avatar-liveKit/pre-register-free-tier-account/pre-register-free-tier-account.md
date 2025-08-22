@@ -97,6 +97,8 @@ You may now **proceed to the next lab**
 
 ## **Acknowledgements**
 
-- **Created By/Date** - Kay Malcolm, Database Product Management, March 2020
-- **Contributors** - John Peach, Kamryn Vinson, Rene Fontcha
-- **Last Updated By** - Madhusudhan Rao, Apr 2022
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI
+  

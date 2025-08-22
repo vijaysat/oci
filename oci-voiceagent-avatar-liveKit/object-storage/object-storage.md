@@ -87,7 +87,7 @@ Congratulations on completing this lab!
 You may now **proceed to the next lab**
 
 ## Acknowledgements
-* **Authors**
-    * Alex Ginella - Software Developer - Oracle AI Services
-    * Jason Ding - Principal Data Scientist - Oracle AI Services
-    * Haad Khan - Senior Data Scientist - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI

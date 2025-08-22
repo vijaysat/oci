@@ -40,6 +40,8 @@ Congratulations on completing this lab!
 [Proceed to the next section](#next).
 
 ## Acknowledgements
-* **Authors**
-    * Alex Ginella - Oracle AI Services
-    * Guy Michaeli - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI
+  

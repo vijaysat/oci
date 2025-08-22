@@ -371,5 +371,8 @@ Congratulations on completing this lab!
 You may now **proceed to the next lab**
 
 ## Acknowledgements
-* **Authors**
-    * Veluvarthi Narasimha Reddy - Software Developer - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI
+    * 
