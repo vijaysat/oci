@@ -388,7 +388,7 @@ Congratulations on completing this lab!
 You may now **proceed to the next lab**
 
 ## Acknowledgements
-* **Authors**
-    * Dhanwin Rao - Oracle AI Services
-    * Alex Ginella  - Oracle AI Services
-    * Rishabh Tewari - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI

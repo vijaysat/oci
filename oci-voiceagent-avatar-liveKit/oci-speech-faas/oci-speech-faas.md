@@ -182,6 +182,8 @@ Once you have created a Function, we will create a Event rule with Action type *
         </copy>
 
 ## Acknowledgements
-* **Authors**
-    * Ankit Tyagi -  Oracle AI Services
-    * Veluvarthi Narasimha Reddy - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI
+  

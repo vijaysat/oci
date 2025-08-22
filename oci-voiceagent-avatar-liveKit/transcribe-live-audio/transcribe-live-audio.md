@@ -246,5 +246,8 @@ realtime_speech_parameters.customizations = [
 
 Download a fully implemented python example [here.](./files/realtime_example.py)
 ## Acknowledgements
-* **Authors**
-    * Alex Ginella  - Oracle AI Services
+* **Author**
+    * **vijay Sathish**, Principal Solutions Architect - OCI 
+* **Contributors**
+    * **Ankit Mishra**, Principal Member of Technical staff - OCI
+  
