@@ -90,7 +90,7 @@
         {
             "title": "Lab 15: Livekit setup on Local System",
             "description": "Learn how to setup Live kit server on local system.",
-            "filename": "../livekit server setup/livekit_server.md"
+            "filename": "../livekit-server-setup/livekit_server.md"
         },
         {
             "title": "Need Help?",
