@@ -27,6 +27,7 @@ If you already have a cloud account, skip to **STEP 2**.
 
    You will be presented with a registration page.
        ![OCI free trail account information](https://oracle-livelabs.github.io/common/labs/cloud-login/images/cloud-infrastructure.png " ")
+
 2.  Enter the following information to create your Oracle Cloud Free Tier account.
     * Choose your **Country**
     * Enter your **Name** and **Email**.
@@ -47,7 +48,6 @@ If you already have a cloud account, skip to **STEP 2**.
     - Choose a **Home Region**.  Your Home Region cannot be changed once you sign-up. Note: Based on the current design of the workshop and resource availability, it is recommended not to use the London region for this workshop at this time.
     - Click **Continue**
     ![OCI free trial account information](https://oracle-livelabs.github.io/common/labs/cloud-login/images/account-info.png " ")
-
 
 7.  Enter your Address information.  Click **Continue**.
           ![address information](https://oracle-livelabs.github.io/common/labs/cloud-login/images/free-tier-address.png " ")

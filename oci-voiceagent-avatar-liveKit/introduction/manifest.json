@@ -69,23 +69,28 @@
         },
         {
             "title": "Lab 11: Provision ADK infrastructure",
-            "description": "Learn how to use Faas feature in OCI Speech.",
-            "filename": "../../oci-speech-faas/oci-speech-faas.md"
+            "description": "Learn how to setup OCI ADK Infrastructure.",
+            "filename": "../../agent-setup/setup.md"
         },
         {
             "title": "Lab 12: Install Agent development kit (ADK)",
-            "description": "Learn how to use Faas feature in OCI Speech.",
-            "filename": "../../oci-speech-faas/oci-speech-faas.md"
+            "description": "Learn how to setup and install OCI ADK.",
+            "filename": "../../adk-installation/adk_install.md"
         },
         {
             "title": "Lab 13: Configure agents with tool",
-            "description": "Learn how to use Faas feature in OCI Speech.",
-            "filename": "../../oci-speech-faas/oci-speech-faas.md"
+            "description": "Learn how to configure OCI agents with tools.",
+            "filename": "../../agent-config/agentconfig.md"
         },
         {
             "title": "Lab 14: Run the Agent",
             "description": "Learn how to use Faas feature in OCI Speech.",
-            "filename": "../../oci-speech-faas/oci-speech-faas.md"
+            "filename": "../../agent-run/agentrun.md"
+        },
+        {
+            "title": "Lab 15: Livekit setup on Local System",
+            "description": "Learn how to setup Live kit server on local system.",
+            "filename": "../livekit-server-setup/livekit_server.md"
         },
         {
             "title": "Need Help?",

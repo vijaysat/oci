@@ -27,6 +27,7 @@ The following services and features will be covered during the lab
 
 * Understand a high level overview of the OCI Speech
 * Learn to use the OCI Speech SDKs.
+* Live Kit setup
 * OCI Generative AI Agent build and deploy.
 * Configure and use inbuilt Retrieval Augmented Generation (**RAG**)tool.
 * Configure and use inbuilt Natural Language 2 to SQL tool (**NL2SQL**).
